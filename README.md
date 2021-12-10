@@ -1,0 +1,2 @@
+# oirslideraiep.github.io
+OIRS para TALLER INTEGRADO DE PROYECTOS DE ANALISIS
